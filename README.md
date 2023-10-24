@@ -35,7 +35,7 @@ Backward Propagation: The gradients of the model parameters with respect to the 
 Iterative Optimization: The forward and backward propagation steps are repeated for multiple epochs, gradually adjusting the model weights to minimize the loss and improve classification accuracy.
 
 # Evaluation
-After training, the model's performance is evaluated on a separate test set of images. The trained model predicts the labels for these images, and the accuracy is calculated by comparing the predictions with the ground truth labels.
+After training, the model's performance is evaluated on a separate test set of images. The trained model predicts the labels for these images, and the accuracy is calculated by comparing the predictions with the ground truth labels.My model performs with an accuracy of 80.83%.
 
 # Usage
 To use the trained model for inference on new images, follow these steps:
